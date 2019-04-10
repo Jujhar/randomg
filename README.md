@@ -14,7 +14,7 @@ package main
 
 import (
 	"fmt"
-	"randomg"
+	"github.com/jujhar/randomg"
 )
 
 func main() {
